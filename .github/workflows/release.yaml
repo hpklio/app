@@ -11,8 +11,8 @@ permissions:
   
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  PKL_VERSION: 0.26.3
-  HPKL_VERSION: 0.6.0
+  PKL_VERSION: 0.27.1
+  HPKL_VERSION: 0.9.0
 
 jobs:
   pkl:
